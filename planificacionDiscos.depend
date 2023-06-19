@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1685243877 source:c:\users\rherr\downloads\ken\septimosemestre\so\tareas\módulo_iii\planificaciondiscos\main.cpp
+	<iostream>
+	<conio.h>
+	<iomanip>
+	<string.h>
+	<vector>
+	<stdlib.h>
+
